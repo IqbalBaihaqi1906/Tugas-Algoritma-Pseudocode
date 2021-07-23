@@ -25,7 +25,7 @@
 3.User akan memberikan input pada variabel jumlahTraveler dan jenisTiket
 4.Jika nilai jenisTiket adalah "one way" maka nilai dari jumlahTraveler dikalikan nilai dari hargaTiket
 5.Jika nilai jenisTiket adalah "two way" maka nilai dari jumlahTraveler dikalikan hargaTiket lalu dikalikan 2
-6.Jika kondisi pada step 4 dan 5 tidak terpenuhi, maka akan kembali ke step kedua
+6.Jika kondisi pada step 4 dan 5 tidak terpenuhi, maka akan kembali ke step ketiga
 ===========================================
 
 ##PROJECT 4
