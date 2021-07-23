@@ -1,0 +1,55 @@
+#Tugas algoritma dan pseucode
+
+##PROJECT 1
+
+1.Deklarasikan variabel jam,menit,detik dan hasil
+2.user memberi input di variabel jam,menit dan detik
+3.kalkulasikan nilai detik ditambah (menit dikalikan 60) ditambah (jam dijalikan 3600)
+4.simpan hasil kalkulasi diatas kedalam variabel hasil
+===========================================
+
+##PROJECT 2
+
+1.Deklarasikan variabel nilai1 dan nilai2
+2.User akan memberikan nilai input kepada variabel nilai1 dan nilai2
+3.Jika nilai1 lebih besar dari nilai2 maka tampilkan output "nilai1 adalah nilai terbesar"
+4.Jika nilai2 lebih besar dari nilai1 maka tampilkan output "nilai2 adalah nilai terbesar"
+5.Jika nilai1 dan nilai2 sama besar, maka tampilkan "nilai pertama sama dengan nilai kedua"
+6.Jika kondisi pada step ke 3,4 dan 5 tidak terpenuhi maka akan kembali ke step kedua
+===========================================
+
+##PROJECT 3
+
+1.Deklarasikan variabel jumlahTraveler,hargaTiket,jenisTiket dan hargaTotal
+2.Tambahkan nilai ke variabel hargaTiket dengan nilai 600000
+3.User akan memberikan input pada variabel jumlahTraveler dan jenisTiket
+4.Jika nilai jenisTiket adalah "one way" maka nilai dari jumlahTraveler dikalikan nilai dari hargaTiket
+5.Jika nilai jenisTiket adalah "two way" maka nilai dari jumlahTraveler dikalikan hargaTiket lalu dikalikan 2
+6.Jika kondisi pada step 4 dan 5 tidak terpenuhi, maka akan kembali ke step kedua
+===========================================
+
+##PROJECT 4
+
+STORE "N" with any value
+STORE "COUNTER" with 0
+WHILE "COUNTER" <= "N"
+	 DISPLAY "COUNTER"
+	 ADD "COUNTER" by 1
+==========================================
+
+##PROJECT 5
+
+STORE "n" with any value
+STORE "minValue" with 1
+WHILE "minValue" <= "n" 
+	IF "minValue" mod 3 equals to 0 AND "minValue" mod 5 equals to 0
+		DISPLAY "FizzBuzz"
+	ELSE 
+		IF "minValue" mod 3 equals to 0
+			DISPLAY "Fizz"
+		ELSE
+			IF "minValue" mod 5 equals to 0
+				DISPLAY "Buzz"
+			ELSE 
+				DISPLAY "minValue"
+	add "minValue" by 1
