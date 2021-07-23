@@ -24,7 +24,9 @@
 2.Tambahkan nilai ke variabel hargaTiket dengan nilai 600000
 3.User akan memberikan input pada variabel jumlahTraveler dan jenisTiket
 4.Jika nilai jenisTiket adalah "one way" maka nilai dari jumlahTraveler dikalikan nilai dari hargaTiket
+	Simpan hasil kalkulasi diatas kedalam variabel hargaTotal
 5.Jika nilai jenisTiket adalah "two way" maka nilai dari jumlahTraveler dikalikan hargaTiket lalu dikalikan 2
+	Simpan hasil kalkulasi diatas kedalam variabel hargaTotal
 6.Jika kondisi pada step 4 dan 5 tidak terpenuhi, maka akan kembali ke step ketiga
 ===========================================
 
